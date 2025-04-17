@@ -96,8 +96,6 @@ This will:
 
 ---
 
-# 🙋‍♂️ Made By
-
-# Rahul B
-
-# Made with passion for ⚽ football and 💻 code.
+### 🙋‍♂️ Made By
+### Rahul B
+### Made with passion for ⚽ football and 💻 code.
