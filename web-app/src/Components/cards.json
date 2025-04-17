@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Mohamed Salah",
+        "defence" : "Forward",
+        "clubName" : "Liverpool",
+        "logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+        "profilePic" : "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg"
+    },
+    {
+        "name" : "Bruno Fernandes",
+        "defence" : "Midfielder",
+        "clubName" : "Manchester United",
+         "logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+        "profilePic" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bruno_Fernandes_Portugal%2C_2018.jpg/640px-Bruno_Fernandes_Portugal%2C_2018.jpg"
+    },
+    {
+        "name" : "Ethan Nwaneri",
+        "defence" : "Midfielder",
+        "clubName" : "Arsenal",
+         "logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+        "profilePic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqYVIpz5ozFINgPeaIVBoawbpOHr_TAHejA&s"
+    },
+    {
+        "name" : "Matheus Cunha",
+        "defence" : "Forward",
+        "clubName" : "Wolverhampton Wanderers",
+         "logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+        "profilePic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOACWimCRoH8ZbTgDruYw2qW1gop_8w3IOA&s"
+    },
+    {
+        "name" : "Jadon Sancho",
+        "defence" : "Forward",
+        "clubName" : "Chelsea",
+         "logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+        "profilePic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8Y3YGqUSRItXA6GdmDSzQg-8lXyKof6cOQ&s"
+    }
+]
