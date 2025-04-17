@@ -28,9 +28,12 @@ This project is a full-stack football web application that displays league stand
 - Docker
 - Docker Compose
 
+---
 
 ## 🛠️ Project Structure
 . ├── fastapi/ # Backend API │ └── Dockerfile │ └── app/ # Python codebase ├── web-app/ # React frontend │ └── Dockerfile │ └── public/ │ └── src/ ├── db/ │ └── init/ # SQL init scripts (e.g. query.sql) ├── docker-compose.yml └── README.md
+
+---
 
 ## 🗄️ Database (PostgreSQL)
 
@@ -38,6 +41,10 @@ Your PostgreSQL database will be automatically created and initialized using the
 
 ## ⚙️ Environment Variables
 
+Create a `.env` in `web-app/`:
+REACT_APP_API_BASE_URL=http://localhost:8000
+
+---
 
 ### 🧠 Backend (`fastapi` service)
 
@@ -53,11 +60,11 @@ Visit Swagger UI at:
 OR 
 - http://your_pc_ip:8000/docs#/
 
+---
 
 ### 🌐 Frontend (`web` service)
 
-Create a `.env` in `web-app/`:
-REACT_APP_API_BASE_URL=http://localhost:8000
+---
 
 # 🧪 Running the app
 
@@ -73,8 +80,9 @@ This will:
 
 - You can also use http://your_pc_ip:{port}
 
+---
 
-💡 Features:
+# 💡 Features:
 
 - 🌍 Dashboard landing page
 
@@ -86,7 +94,10 @@ This will:
 
 - 🎨 Responsive UI with animation (GSAP + MUI)
 
+---
 
-🙋‍♂️ Made By
-Rahul B
-Made with passion for ⚽ football and 💻 code.
+# 🙋‍♂️ Made By
+
+# Rahul B
+
+# Made with passion for ⚽ football and 💻 code.
